@@ -1,0 +1,10 @@
+/* for login template */
+.login-panel.panel-default > .panel-heading {
+	color: #ffffff;
+	background-color: #48B5D5;
+	border-color: #48B5D5;
+}
+
+.pull-center {
+	text-align: center;
+}
